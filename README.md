@@ -1,51 +1,64 @@
 ## Hi there 👋
+# I m Zeashan Tayyab
 
-<!--
-# Hi, I'm Zeashan Tayyab
+Senior QA Engineer | QA Lead | Automation Engineer
 
-Senior QA Engineer | Test Lead | Automation Enthusiast
-
-I am a results-driven Software Quality Assurance professional with 10+ years of experience in delivering high-quality, scalable, and reliable software solutions across enterprise environments. I specialize in test strategy, automation frameworks, and end-to-end quality engineering.
+Software Quality Assurance professional with 10+ years of experience in enterprise and SaaS platforms. Specialized in test strategy, automation, and delivering high-quality releases in Agile environments. Proven ability to reduce defects, improve release cycles, and drive quality across the SDLC.
 
 ---
 
-## About Me
-- Expert in Manual and Automation Testing (Cypress, API Testing)
-- Strong experience in Test Planning, Defect Management, and QA Leadership
-- Skilled in Agile/Scrum, CI/CD, and Release Management
-- Proven ability to collaborate with cross-functional teams and stakeholders
-- Focused on improving product quality, reducing defects, and accelerating delivery
+## Professional Summary
+- 10+ years in Software QA, including leadership roles
+- Expertise in Manual Testing, Automation Testing, and API Validation
+- Strong experience in Agile, CI/CD, and Release Management
+- Led QA for high-volume, enterprise applications
+- Improved regression efficiency by 40% through automation
+- Reduced defect leakage and improved resolution time by 25%
 
 ---
 
-## Technical Skills
-- Automation: Cypress, Selenium (basic)
-- API Testing: Postman, REST APIs
-- Tools: JIRA, Test Management Tools
-- Practices: Agile, SDLC, STLC, CI/CD
-- Performance Testing: JMeter (basic)
+## Core Skills (ATS Keywords)
+Quality Assurance | Test Automation | Cypress | API Testing | Postman | Selenium | JIRA | Agile | Scrum | SDLC | STLC | CI/CD | Regression Testing | Test Planning | Defect Tracking | UAT | Performance Testing | JMeter | SaaS Testing | Cross-functional Collaboration
 
 ---
 
-## Key Achievements
-- Reduced regression testing cycle by 40% using automation
-- Improved defect detection and resolution efficiency by 25%
-- Led QA efforts for enterprise-scale applications with high transaction volumes
+## Featured Projects
+
+### 1. Cypress Automation Framework
+- Designed and implemented end-to-end automation framework using Cypress
+- Automated critical user flows (Login, Dashboard, Transactions)
+- Integrated with CI/CD pipeline for regression execution
+- Improved test coverage and reduced manual effort
+
+### 2. API Testing Suite
+- Developed API test collections using Postman
+- Validated REST APIs with dynamic data handling
+- Automated API regression using scripts and environment configs
+
+### 3. QA Process Optimization
+- Defined test strategy, test plans, and defect workflows
+- Improved release quality through structured QA governance
+- Collaborated with Product, Dev, and DevOps for faster delivery
 
 ---
 
-## Currently Learning
-- Advanced Cypress Automation  
-- AI in Software Testing  
-- CI/CD Pipeline Optimization  
+## Value I Bring
+- Strong ownership of product quality
+- Faster releases with reduced risk
+- Early defect detection and prevention
+- Business-focused QA, not just testing
+
+---
+
+## Availability
+- Work Authorization: H1B (C2C)
+- Availability: Immediate
+- Open to relocation
 
 ---
 
 ## Contact
-- LinkedIn: Your LinkedIn URL
-- Email: your@email.com
-
----
-
-I focus on delivering value beyond testing by ensuring quality, reliability, and improved user experience.
+- LinkedIn:https://www.linkedin.com/in/zeeshantayyab/
+- Email: zeashan.tayyab@gmail.com
+<!--
 -->

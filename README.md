@@ -32,7 +32,7 @@ Quality Assurance | Test Automation | Cypress | API Testing | Postman | Selenium
 - Best practice to follow POM in frameworkhave a look , it is like reuseable component to repurpose it base on requirments in any project "https://github.com/zeashantayyab/Cypress_Framework_Automation"
 
 ### 2. API Testing Suite
-- Developed API test collections using Postman
+- Developed API test collections using Postman  https://github.com/zeashantayyab/API-Postman-Automation-collection
 - Validated REST APIs with dynamic data handling
 - Automated API regression using scripts and environment configs
 

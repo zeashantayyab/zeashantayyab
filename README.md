@@ -17,7 +17,7 @@ Software Quality Assurance professional with 10+ years of experience in enterpri
 
 ---
 
-## Core Skills (ATS Keywords)
+## Core Skills
 Quality Assurance | Test Automation | Cypress | API Testing | Postman | Selenium | JIRA | Agile | Scrum | SDLC | STLC | CI/CD | Regression Testing | Test Planning | Defect Tracking | UAT | Performance Testing | JMeter | SaaS Testing | Cross-functional Collaboration
 
 ---
@@ -29,6 +29,7 @@ Quality Assurance | Test Automation | Cypress | API Testing | Postman | Selenium
 - Automated critical user flows (Login, Dashboard, Transactions)
 - Integrated with CI/CD pipeline for regression execution
 - Improved test coverage and reduced manual effort
+- Best practice to follow POM in frameworkhave a look , it is like reuseable component to repurpose it base on requirments in any project "https://github.com/zeashantayyab/Cypress_Framework_Automation"
 
 ### 2. API Testing Suite
 - Developed API test collections using Postman

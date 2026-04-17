@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I m Zeashan Tayyab
 
-Senior QA Engineer | QA Lead | Automation Engineer
+Senior QA Engineer | QA Lead | Automation Engineer | Manager
 
 Software Quality Assurance professional with 10+ years of experience in enterprise and SaaS platforms. Specialized in test strategy, automation, and delivering high-quality releases in Agile environments. Proven ability to reduce defects, improve release cycles, and drive quality across the SDLC.
 
